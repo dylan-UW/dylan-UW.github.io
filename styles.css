@@ -5,3 +5,14 @@ p {
     font-size: large;
     
 }
+
+table {
+    border-width: 2px;
+    border-style: dotted;
+    border-radius: 3px;
+}
+
+td {
+    border-style:groove;
+    border-width: 2px;
+}
